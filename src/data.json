@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "T Deepak",
+    "date": "06-06-1993",
+    "age": "29"
+  },
+  {
+    "id": 2,
+    "name": "Dev Charan",
+    "date": "06-06-1993",
+    "age": "29"
+  },
+  {
+    "id": 3,
+    "name": "Sameer Jain",
+    "date": "06-06-1993",
+    "age": "29"
+  }
+]
